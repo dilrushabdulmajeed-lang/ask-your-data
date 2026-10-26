@@ -1,0 +1,5 @@
+anthropic==2.3.0
+clickhouse-connect==1.11.0
+pandas==3.1.0
+python-dotenv==1.2.4
+streamlit==1.66.1
