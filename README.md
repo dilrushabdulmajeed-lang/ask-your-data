@@ -6,7 +6,7 @@ Ask a business question in plain English and get an answer computed from the dat
 
 > Data covers three earlier portfolio projects: [Google Ads pipeline](https://github.com/dilrushabdulmajeed-lang/marketing-analytics-pipeline), [e-commerce analytics](https://github.com/dilrushabdulmajeed-lang/ecommerce-analytics) and the [checkout A/B test](https://github.com/dilrushabdulmajeed-lang/ab-test-analysis). All data is synthetic.
 
-![Web chat](docs/screenshots/chat.png)
+![Web chat: answer with the SQL and result shown](docs/screenshots/chat.png)
 
 ## How it works
 
